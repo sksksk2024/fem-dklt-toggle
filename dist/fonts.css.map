@@ -1,0 +1,1 @@
+{"version":3,"sources":["../app/scss/globals/fonts.scss"],"names":[],"mappings":"AAAA;EACE,iCAAiC;AACnC","file":"fonts.css","sourcesContent":[":root {\n  --font-inter: \"Inter\", sans-serif;\n}\n\n/*# sourceMappingURL=file:///c:/Users/Alex%20Cota/Documents/GitHub/fem-dklt-toggle/dist/fonts.css.map */"]}
